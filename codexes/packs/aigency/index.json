@@ -2,12 +2,12 @@
   "pack_id": "pack_aigency_v0",
   "title": "AgentiQ Codex",
   "description": "Aigent Z's canonical knowledge base. Updated on every merged PR and every direct push to dev.",
-  "last_updated": "2026-05-08T01:59:47.359Z",
+  "last_updated": "2026-05-15T04:30:21.923Z",
   "latest_pr": 78,
   "latest_pr_title": "Staging",
-  "latest_commit": "10db221fa89fb080e0fcee2a4aa7ca514bfd461b",
-  "latest_commit_short": "10db221",
-  "latest_commit_title": "feat: thin-client active-persona integration — surface ownFioHandle + parent broadcast + integration doc",
+  "latest_commit": "04416bbd7a7b58411534eab77804c3a7ee89b1f8",
+  "latest_commit_short": "04416bb",
+  "latest_commit_title": "fix(content): resolve FIO handles in entitlements API",
   "pr_history": [
     {
       "number": 78,
@@ -353,6 +353,24 @@
     }
   ],
   "commit_history": [
+    {
+      "sha": "04416bb",
+      "full_sha": "04416bbd7a7b58411534eab77804c3a7ee89b1f8",
+      "title": "fix(content): resolve FIO handles in entitlements API",
+      "author": "Kn0w-1",
+      "timestamp": "2026-05-15T00:28:15-04:00",
+      "type": "fix",
+      "brief": "items/build_/COMMITS/COMMIT-04416bb.md"
+    },
+    {
+      "sha": "e54873b",
+      "full_sha": "e54873b16ba980a14559de9fc2055a21563c2128",
+      "title": "chore(git): ignore backfill backups",
+      "author": "Kn0w-1",
+      "timestamp": "2026-05-15T00:28:26-04:00",
+      "type": "chore",
+      "brief": "items/build_/COMMITS/COMMIT-e54873b.md"
+    },
     {
       "sha": "10db221",
       "full_sha": "10db221fa89fb080e0fcee2a4aa7ca514bfd461b",
@@ -1234,24 +1252,6 @@
       "timestamp": "2026-03-25T15:45:22Z",
       "type": "fix",
       "brief": "items/build_/COMMITS/COMMIT-f8bc5a7.md"
-    },
-    {
-      "sha": "27d88f8",
-      "full_sha": "27d88f8176c67e547f4251900642f4bc71593e23",
-      "title": "trigger deploy to dev",
-      "author": "Claude",
-      "timestamp": "2026-03-25T03:57:09Z",
-      "type": "deploy",
-      "brief": "items/build_/COMMITS/COMMIT-27d88f8.md"
-    },
-    {
-      "sha": "07c6010",
-      "full_sha": "07c601041e572bed7ad37779683ab8c2f58cf5d3",
-      "title": "fix experiences tab: check local fallbacks on empty Supabase result, fix cache race on handleComplete",
-      "author": "Claude",
-      "timestamp": "2026-03-25T03:57:03Z",
-      "type": "fix",
-      "brief": "items/build_/COMMITS/COMMIT-07c6010.md"
     }
   ],
   "entrypoint": "items/00_START_HERE.md",

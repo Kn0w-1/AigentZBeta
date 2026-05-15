@@ -769,3 +769,13 @@ Top-level retrieval anchors for this pack.
 - Type: `feat`
 - Brief: [COMMIT-10db221.md](../build_/COMMITS/COMMIT-10db221.md)
 - Message: feat: thin-client active-persona integration — surface ownFioHandle + parent broadcast + integration doc
+
+## Commit `e54873b` — 2026-05-15T00:28:26-04:00
+- Type: `chore`
+- Brief: [COMMIT-e54873b.md](../build_/COMMITS/COMMIT-e54873b.md)
+- Message: chore(git): ignore backfill backups
+
+## Commit `04416bb` — 2026-05-15T00:28:15-04:00
+- Type: `fix`
+- Brief: [COMMIT-04416bb.md](../build_/COMMITS/COMMIT-04416bb.md)
+- Message: fix(content): resolve FIO handles in entitlements API

@@ -1,4 +1,6 @@
 # Build — Changelog
+- [`04416bb`](https://github.com/Kn0w-1/AigentZBeta/commit/04416bbd7a7b58411534eab77804c3a7ee89b1f8) [fix] fix(content): resolve FIO handles in entitlements API (Kn0w-1, 2026-05-15T00:28:15-04:00)
+- [`e54873b`](https://github.com/Kn0w-1/AigentZBeta/commit/e54873b16ba980a14559de9fc2055a21563c2128) [chore] chore(git): ignore backfill backups (Kn0w-1, 2026-05-15T00:28:26-04:00)
 - [`10db221`](https://github.com/iQube-Protocol/AigentZBeta/commit/10db221fa89fb080e0fcee2a4aa7ca514bfd461b) [feat] feat: thin-client active-persona integration — surface ownFioHandle + parent broadcast + integration doc (Claude, 2026-05-08T01:45:25Z)
 - [`2d81f86`](https://github.com/iQube-Protocol/AigentZBeta/commit/2d81f86cc10342037812083f85683ee486ad1e15) [push] trigger amplify rebuild: sprint 3+4 investor dashboard + admin investments tab (Claude, 2026-05-08T00:24:54Z)
 - [`d2c4645`](https://github.com/iQube-Protocol/AigentZBeta/commit/d2c46454970e0e0f00cd510168d5e0ce82f73d26) [feat] add dev note: supabase postgrest silent column error + episode thumbnail fix pattern (Claude, 2026-05-06T05:33:01Z)
